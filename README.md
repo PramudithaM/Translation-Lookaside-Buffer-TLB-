@@ -17,4 +17,4 @@ Ensure you have the following installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/YourUsername/MemorySystemSimulator.git
+git@github.com:PramudithaM/Translation-Lookaside-Buffer-TLB-.git
